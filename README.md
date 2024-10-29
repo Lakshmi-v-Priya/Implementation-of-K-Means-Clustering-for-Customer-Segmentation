@@ -68,11 +68,15 @@ plt.title("Customer Segments")
 
 ## Output:
 ELBOW GRAPH:
+
 ![image](https://github.com/user-attachments/assets/4d8e9396-e6f2-4448-bda1-0302a70cfb77)
 
 PREDICTED VALUES:
+
 ![image](https://github.com/user-attachments/assets/8f2c09b7-eb19-4a9e-84da-70261d30735e)
+
 FINAL GRAPH:
+
 ![image](https://github.com/user-attachments/assets/64c9b4d5-32df-4190-8f9c-248440a0c6de)
 
 ## Result:
